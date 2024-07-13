@@ -1,0 +1,14 @@
+F:\repo\TRAReconciler\bin\Release\net8.0\TRAReconciler.exe
+F:\repo\TRAReconciler\bin\Release\net8.0\TRAReconciler.deps.json
+F:\repo\TRAReconciler\bin\Release\net8.0\TRAReconciler.runtimeconfig.json
+F:\repo\TRAReconciler\bin\Release\net8.0\TRAReconciler.dll
+F:\repo\TRAReconciler\bin\Release\net8.0\TRAReconciler.pdb
+F:\repo\TRAReconciler\obj\Release\net8.0\TRAReconciler.GeneratedMSBuildEditorConfig.editorconfig
+F:\repo\TRAReconciler\obj\Release\net8.0\TRAReconciler.AssemblyInfoInputs.cache
+F:\repo\TRAReconciler\obj\Release\net8.0\TRAReconciler.AssemblyInfo.cs
+F:\repo\TRAReconciler\obj\Release\net8.0\TRAReconciler.csproj.CoreCompileInputs.cache
+F:\repo\TRAReconciler\obj\Release\net8.0\TRAReconciler.dll
+F:\repo\TRAReconciler\obj\Release\net8.0\refint\TRAReconciler.dll
+F:\repo\TRAReconciler\obj\Release\net8.0\TRAReconciler.pdb
+F:\repo\TRAReconciler\obj\Release\net8.0\TRAReconciler.genruntimeconfig.cache
+F:\repo\TRAReconciler\obj\Release\net8.0\ref\TRAReconciler.dll
