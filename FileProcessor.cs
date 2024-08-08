@@ -9,18 +9,40 @@ namespace TRAReconciler
 {
     internal class FileProcessor
     {
+        private bool _tphMode;
         private string _modPath, _traPath;
         private Dictionary<string, TRAFile> _traFiles;
-        public FileProcessor(string modPath, string traPath) 
+        private TRAFile _lastProcessed;
+        public FileProcessor(string modPath, string traPath, bool tphMode) 
         {
+            _tphMode = tphMode;
             _traFiles = new Dictionary<string, TRAFile>();
             _modPath = modPath;
             _traPath = traPath;
+            if (tphMode)
+            {
+                ProcessTPH();
+            }
+            else
+            {
+                ProcessNonTPH();
+            }
+        }
+        private void ProcessTPH()
+        {
+            ProcessTRAFile(_traPath);
+            ProcessComponentFiles(".tph");
+            ProcessComponentFiles(".tp2");
+            Console.WriteLine("Writing reconciled TRA...");
+            _lastProcessed.WriteTRAFile();
+        }
+        private void ProcessNonTPH()
+        {
             ProcessTRAFiles();
             ProcessComponentFiles(".baf");
             ProcessComponentFiles(".d");
             Console.WriteLine("Writing reconciled TRAs...");
-            foreach(TRAFile traFile in _traFiles.Values)
+            foreach (TRAFile traFile in _traFiles.Values)
             {
                 traFile.WriteTRAFile();
             }
@@ -32,21 +54,33 @@ namespace TRAReconciler
             {
                 string fileID = FileID(componentPath);
                 Console.WriteLine(componentPath);
-                if (_traFiles.ContainsKey(fileID))
+                if (!_tphMode)
+                {
+                    if (_traFiles.ContainsKey(fileID))
+                    {
+                        Console.WriteLine("Processing component file: " + componentPath);
+                        ComponentFile cf = new ComponentFile(componentPath, _traFiles[fileID]);
+                    }
+                }
+                else
                 {
                     Console.WriteLine("Processing component file: " + componentPath);
-                    ComponentFile cf = new ComponentFile(componentPath, _traFiles[fileID]);
+                    ComponentFile cf = new ComponentFile(componentPath, _lastProcessed);
                 }
+                
             }
         }
-
+        private void ProcessTRAFile(string traFilePath)
+        {
+            _lastProcessed = new TRAFile(traFilePath);
+            _traFiles.Add(FileID(traFilePath), _lastProcessed);
+        }
         private void ProcessTRAFiles()
         {
             string[] traFilePaths = Directory.GetFiles(_traPath, "*.tra");
             foreach(string traFilePath in traFilePaths)
             {
-                TRAFile traFile = new TRAFile(traFilePath);
-                _traFiles.Add(FileID(traFilePath), traFile);
+                ProcessTRAFile(traFilePath);
             }
         }
 

@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\repo\\TRAReconciler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ED3D8A-AD6D-4166-BAAE-9AA3C57A55ED}|TRAReconciler.csproj|f:\\repo\\trareconciler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1ED3D8A-AD6D-4166-BAAE-9AA3C57A55ED}|TRAReconciler.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ED3D8A-AD6D-4166-BAAE-9AA3C57A55ED}|TRAReconciler.csproj|f:\\repo\\trareconciler\\fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1ED3D8A-AD6D-4166-BAAE-9AA3C57A55ED}|TRAReconciler.csproj|solutionrelative:fileprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ED3D8A-AD6D-4166-BAAE-9AA3C57A55ED}|TRAReconciler.csproj|f:\\repo\\trareconciler\\trareference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1ED3D8A-AD6D-4166-BAAE-9AA3C57A55ED}|TRAReconciler.csproj|solutionrelative:trareference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ED3D8A-AD6D-4166-BAAE-9AA3C57A55ED}|TRAReconciler.csproj|f:\\repo\\trareconciler\\trafile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1ED3D8A-AD6D-4166-BAAE-9AA3C57A55ED}|TRAReconciler.csproj|solutionrelative:trafile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dan_v\\AppData\\Local\\SourceServer\\e96ea30b9d3cf02c6b7728633547e3ce89a29d48d4435d5142dfc50642253c4c\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dan_v\\AppData\\Local\\SourceServer\\ae2d2828b4ea33535813de44457ab6595d63d54db3d408ad2e72ef39ded91907\\src\\libraries\\System.Private.CoreLib\\src\\System\\String.Manipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ED3D8A-AD6D-4166-BAAE-9AA3C57A55ED}|TRAReconciler.csproj|f:\\repo\\trareconciler\\componentfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1ED3D8A-AD6D-4166-BAAE-9AA3C57A55ED}|TRAReconciler.csproj|solutionrelative:componentfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ED3D8A-AD6D-4166-BAAE-9AA3C57A55ED}|TRAReconciler.csproj|f:\\repo\\trareconciler\\trareconciler.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B1ED3D8A-AD6D-4166-BAAE-9AA3C57A55ED}|TRAReconciler.csproj|solutionrelative:trareconciler.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dictionary.cs",
+              "DocumentMoniker": "C:\\Users\\dan_v\\AppData\\Local\\SourceServer\\e96ea30b9d3cf02c6b7728633547e3ce89a29d48d4435d5142dfc50642253c4c\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs",
+              "ToolTip": "C:\\Users\\dan_v\\AppData\\Local\\SourceServer\\e96ea30b9d3cf02c6b7728633547e3ce89a29d48d4435d5142dfc50642253c4c\\src\\libraries\\System.Private.CoreLib\\src\\System\\Collections\\Generic\\Dictionary.cs",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAjwOgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T00:11:39.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComponentFile.cs",
+              "DocumentMoniker": "F:\\repo\\TRAReconciler\\ComponentFile.cs",
+              "RelativeDocumentMoniker": "ComponentFile.cs",
+              "ToolTip": "F:\\repo\\TRAReconciler\\ComponentFile.cs",
+              "RelativeToolTip": "ComponentFile.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T22:53:47.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TRAFile.cs",
+              "DocumentMoniker": "F:\\repo\\TRAReconciler\\TRAFile.cs",
+              "RelativeDocumentMoniker": "TRAFile.cs",
+              "ToolTip": "F:\\repo\\TRAReconciler\\TRAFile.cs",
+              "RelativeToolTip": "TRAFile.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwEQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T20:55:14.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileProcessor.cs",
+              "DocumentMoniker": "F:\\repo\\TRAReconciler\\FileProcessor.cs",
+              "RelativeDocumentMoniker": "FileProcessor.cs",
+              "ToolTip": "F:\\repo\\TRAReconciler\\FileProcessor.cs",
+              "RelativeToolTip": "FileProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:34:09.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TRAReference.cs",
+              "DocumentMoniker": "F:\\repo\\TRAReconciler\\TRAReference.cs",
+              "RelativeDocumentMoniker": "TRAReference.cs",
+              "ToolTip": "F:\\repo\\TRAReconciler\\TRAReference.cs",
+              "RelativeToolTip": "TRAReference.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T21:07:02.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TRAReconciler",
+              "DocumentMoniker": "F:\\repo\\TRAReconciler\\TRAReconciler.csproj",
+              "RelativeDocumentMoniker": "TRAReconciler.csproj",
+              "ToolTip": "F:\\repo\\TRAReconciler\\TRAReconciler.csproj",
+              "RelativeToolTip": "TRAReconciler.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-12T20:56:23.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\repo\\TRAReconciler\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\repo\\TRAReconciler\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwB8AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T20:54:43.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "String.Manipulation.cs",
+              "DocumentMoniker": "C:\\Users\\dan_v\\AppData\\Local\\SourceServer\\ae2d2828b4ea33535813de44457ab6595d63d54db3d408ad2e72ef39ded91907\\src\\libraries\\System.Private.CoreLib\\src\\System\\String.Manipulation.cs",
+              "ToolTip": "C:\\Users\\dan_v\\AppData\\Local\\SourceServer\\ae2d2828b4ea33535813de44457ab6595d63d54db3d408ad2e72ef39ded91907\\src\\libraries\\System.Private.CoreLib\\src\\System\\String.Manipulation.cs",
+              "ViewState": "AQIAAAIIAAAAAAAAAAAEwAoIAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T00:34:23.549Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

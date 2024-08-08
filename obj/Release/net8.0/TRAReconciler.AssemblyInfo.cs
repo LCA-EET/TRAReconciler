@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TRAReconciler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1480585de52656f3d86985c4162564d72d27fc89")]
 [assembly: System.Reflection.AssemblyProductAttribute("TRAReconciler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TRAReconciler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

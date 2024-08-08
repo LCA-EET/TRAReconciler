@@ -12,3 +12,4 @@ F:\repo\TRAReconciler\obj\Release\net8.0\refint\TRAReconciler.dll
 F:\repo\TRAReconciler\obj\Release\net8.0\TRAReconciler.pdb
 F:\repo\TRAReconciler\obj\Release\net8.0\TRAReconciler.genruntimeconfig.cache
 F:\repo\TRAReconciler\obj\Release\net8.0\ref\TRAReconciler.dll
+F:\repo\TRAReconciler\obj\Release\net8.0\TRAReconciler.sourcelink.json
